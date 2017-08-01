@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "727750767804",
+    "firebase_url": "https://quickstart-android-47554.firebaseio.com",
+    "project_id": "quickstart-android-47554",
+    "storage_bucket": "quickstart-android-47554.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727750767804:android:dac7b77cfd5c985a",
+        "android_client_info": {
+          "package_name": "hgc.com.offpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727750767804-5nt202qqnvjf7fr6v2v0bnmj9mcanm76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hgc.com.offpay",
+            "certificate_hash": "25e8bf22a1c66284fdbb58ff3040f19419884114"
+          }
+        },
+        {
+          "client_id": "727750767804-nqra536flkboe1t95ac2rfs9v9aekcm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK-o7Wpmoy21uvTG8ZzGGQ2BN2Q-zYgyw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727750767804-nqra536flkboe1t95ac2rfs9v9aekcm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
