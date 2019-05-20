@@ -1,2 +1,2 @@
 # OffPay
-An oflline solution for payments
+An offline solution for payments
